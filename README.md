@@ -9,5 +9,5 @@ Versão atual: 1.0.0
 
 # Suporte & Documentação
 
-- [Servidor de Suporte (Discord)](https://discord.gg/fhGXwVD)
+- [Servidor de Suporte (Discord)](https://discord.gg/JDVbZuH)
 - [Documentação](https://pixelbot.gitbook.io/docs/)
